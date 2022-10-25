@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nafiz Anam</h1>
 <!-- <h3 align="center">A passionate Full-Stack Developer</h3> -->
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+MERN+Stack+Developer;I'm+a+WordPress+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+MERN+Stack+Developer;I'm+a+WordPress+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer;I'm+a+Full-Stack+Developer" alt="Typing SVG" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiz-anam&label=Profile%20views&color=0e75b6&style=flat" alt="nafiz-anam" /> </p>
 
