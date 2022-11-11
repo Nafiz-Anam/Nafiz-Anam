@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiz-anam&label=Profile%20views&color=0e75b6&style=flat" alt="nafiz-anam" /> </p>
 
-![Website Screenshot](Nafiz-Anam-Github-Cover-Image.jpg)
+![Header Image of Nafiz Anam](Nafiz-Anam-Github-Header-Image.jpg)
 
 <h3 align="left">Connect with me:</h3>
 
