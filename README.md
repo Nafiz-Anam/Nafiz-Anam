@@ -34,4 +34,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Website Screenshot](Nafiz-Anam-Cober-image-github.jpg)
+![Nafiz Anam's Contact Info](Nafiz-Anam-contact-image-github.jpg)
